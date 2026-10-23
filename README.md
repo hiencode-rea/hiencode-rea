@@ -1,30 +1,34 @@
 # Hi, I'm Hien 👋
 
-### Java & Android Developer | Building practical business software
+### Java, Android & Python Developer | Building practical software
 
-I build applications that connect mobile and desktop workflows with backend services and relational databases. My current project is a cafe operations system with an Android client, Java desktop client, HTTP API, and SQL Server database.
+I build practical applications across web, mobile, and desktop, with a focus on backend integration, search algorithms, and clear user experiences.
 
-## Featured project
+## Featured projects
 
-### Cafe Management System
+### [Water Sort Puzzle Solver](https://github.com/hiencode-rea/water_sort_project)
 
-- **Android:** Java, XML layouts, Gradle, Material Components
-- **Desktop:** Java, JavaFX
-- **Backend:** Java HTTP API
-- **Database:** Microsoft SQL Server
-- **Focus areas:** table and order workflows, kitchen/drink preparation coordination, and staff attendance
+- Full-stack puzzle-solving app with an interactive browser-based board editor and step-by-step solution playback.
+- Implements **BFS**, **DFS**, and **A\*** search, including a Color Breaks heuristic.
+- Visualizes the search tree and Open/Closed lists to make algorithm behavior explorable.
+- **Stack:** Python, Flask, JavaScript, HTML, CSS.
 
-> The source repository is private. I can provide access to selected reviewers on request.
+### CafePilot — Cafe Operations System *(private repository)*
+
+- Multi-client system with a native Android app, Java desktop client, Java HTTP API, and SQL Server.
+- Covers table and order workflows, kitchen/drink preparation coordination, and staff attendance.
+- **Stack:** Java, Android, JavaFX, Gradle, SQL Server.
+- Source code is private; access can be shared with selected reviewers on request.
 
 ## What I'm working on
 
-- Building end-to-end features across Android, desktop, API, and database layers
-- Improving UI consistency, maintainability, and secure configuration practices
-- Documenting setup and development workflows
+- Building and documenting end-to-end projects across web, Android, desktop, APIs, and databases.
+- Exploring search algorithms and interactive ways to visualize how they work.
+- Improving UI consistency, maintainability, and secure configuration practices.
 
 ## Technologies
 
-`Java` `Android` `JavaFX` `SQL Server` `Git` `Gradle`
+`Python` `Flask` `JavaScript` `Java` `Android` `JavaFX` `SQL Server` `Git` `Gradle`
 
 ## Contact
 
