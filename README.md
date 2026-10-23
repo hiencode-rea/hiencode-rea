@@ -1,40 +1,68 @@
-# Hi, I'm Hien 👋
+<div align="center">
 
-### Java, Android & Python Developer | Building practical software
+# 👋 Hi, I'm Hiên Trần
 
-I build practical applications across web, mobile, and desktop, with a focus on backend integration, search algorithms, and clear user experiences.
+### Java · Android · Python
 
-## Featured projects
+I build practical software across web, mobile, and desktop — from cafe operations tools to visual search-algorithm experiments.
 
-### [Water Sort Puzzle Solver](https://github.com/hiencode-rea/water_sort_project)
+[![GitHub](https://img.shields.io/badge/GitHub-hiencode--rea-181717?style=for-the-badge&logo=github)](https://github.com/hiencode-rea)
 
-- Full-stack puzzle-solving app with an interactive browser-based board editor and step-by-step solution playback.
-- Implements **BFS**, **DFS**, and **A\*** search, including a Color Breaks heuristic.
-- Visualizes the search tree and Open/Closed lists to make algorithm behavior explorable.
-- **Stack:** Python, Flask, JavaScript, HTML, CSS.
-
-### [CafePilot — Cafe Operations System](https://github.com/hiencode-rea/CafePilot)
-
-- Multi-client system with a native Android app, Java desktop client, Java HTTP API, and SQL Server.
-- Covers table and order workflows, kitchen/drink preparation coordination, and staff attendance.
-- **Stack:** Java, Android, JavaFX, Gradle, SQL Server.
-- Public repository with the Android client, Java desktop application, HTTP API, and SQL Server scripts.
-
-## What I'm working on
-
-- Building and documenting end-to-end projects across web, Android, desktop, APIs, and databases.
-- Exploring search algorithms and interactive ways to visualize how they work.
-- Improving UI consistency, maintainability, and secure configuration practices.
-
-## Technologies
-
-`Python` `Flask` `JavaScript` `Java` `Android` `JavaFX` `SQL Server` `Git` `Gradle`
-
-## Contact
-
-- GitHub: [@hiencode-rea](https://github.com/hiencode-rea)
-- Professional contact details and portfolio links can be added when available.
+</div>
 
 ---
 
-*I value clear documentation, reliable software, and continuous learning.*
+## `01` &nbsp; What I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/JavaFX-4285F4?style=flat-square&logo=java&logoColor=white" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## `02` &nbsp; Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/hiencode-rea/CafePilot">CafePilot</a></h3>
+      <p>A cafe operations system connecting staff workflows across mobile, desktop, an HTTP API, and SQL Server.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>Android app for floor and preparation workflows</li>
+        <li>Java desktop client for cafe operations</li>
+        <li>Java API backed by SQL Server</li>
+      </ul>
+      <p><sub>Java · Android · JavaFX · SQL Server</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/hiencode-rea/water_sort_project">Water Sort Puzzle Solver</a></h3>
+      <p>An interactive puzzle solver that makes classic search algorithms visible and explorable.</p>
+      <p><strong>Highlights</strong></p>
+      <ul>
+        <li>BFS, DFS, and A* with a Color Breaks heuristic</li>
+        <li>Step-by-step playback and search-tree visualization</li>
+        <li>Open and Closed list inspection</li>
+      </ul>
+      <p><sub>Python · Flask · JavaScript · HTML · CSS</sub></p>
+    </td>
+  </tr>
+</table>
+
+## `03` &nbsp; Currently exploring
+
+- Building end-to-end applications across clients, APIs, and relational databases
+- Making algorithms easier to understand through interactive visualizations
+- Improving software maintainability, documentation, and secure configuration
+
+---
+
+<div align="center">
+  <sub>Thoughtful software, one commit at a time.</sub>
+</div>
