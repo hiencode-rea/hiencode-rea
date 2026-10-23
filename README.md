@@ -13,12 +13,12 @@ I build practical applications across web, mobile, and desktop, with a focus on 
 - Visualizes the search tree and Open/Closed lists to make algorithm behavior explorable.
 - **Stack:** Python, Flask, JavaScript, HTML, CSS.
 
-### CafePilot — Cafe Operations System *(private repository)*
+### [CafePilot — Cafe Operations System](https://github.com/hiencode-rea/CafePilot)
 
 - Multi-client system with a native Android app, Java desktop client, Java HTTP API, and SQL Server.
 - Covers table and order workflows, kitchen/drink preparation coordination, and staff attendance.
 - **Stack:** Java, Android, JavaFX, Gradle, SQL Server.
-- Source code is private; access can be shared with selected reviewers on request.
+- Public repository with the Android client, Java desktop application, HTTP API, and SQL Server scripts.
 
 ## What I'm working on
 
